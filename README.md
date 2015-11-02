@@ -1,2 +1,2 @@
-# colorist
-A class for Processing providing support for color schemes, named colors, format conversion
+# Colorist
+A Processing class providing support for color schemes, named colors, format conversion
