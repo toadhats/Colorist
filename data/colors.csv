@@ -1,0 +1,866 @@
+name,nicename,value
+air_force_blue_raf,Air Force Blue (Raf),#5d8aa8
+air_force_blue_usaf,Air Force Blue (Usaf),#00308f
+air_superiority_blue,Air Superiority Blue,#72a0c1
+alabama_crimson,Alabama Crimson,#a32638
+alice_blue,Alice Blue,#f0f8ff
+alizarin_crimson,Alizarin Crimson,#e32636
+alloy_orange,Alloy Orange,#c46210
+almond,Almond,#efdecd
+amaranth,Amaranth,#e52b50
+amber,Amber,#ffbf00
+amber_sae_ece,Amber (Sae/Ece),#ff7e00
+american_rose,American Rose,#ff033e
+amethyst,Amethyst,#96c
+android_green,Android Green,#a4c639
+anti_flash_white,Anti-Flash White,#f2f3f4
+antique_brass,Antique Brass,#cd9575
+antique_fuchsia,Antique Fuchsia,#915c83
+antique_ruby,Antique Ruby,#841b2d
+antique_white,Antique White,#faebd7
+ao_english,Ao (English),#008000
+apple_green,Apple Green,#8db600
+apricot,Apricot,#fbceb1
+aqua,Aqua,#0ff
+aquamarine,Aquamarine,#7fffd4
+army_green,Army Green,#4b5320
+arsenic,Arsenic,#3b444b
+arylide_yellow,Arylide Yellow,#e9d66b
+ash_grey,Ash Grey,#b2beb5
+asparagus,Asparagus,#87a96b
+atomic_tangerine,Atomic Tangerine,#f96
+auburn,Auburn,#a52a2a
+aureolin,Aureolin,#fdee00
+aurometalsaurus,Aurometalsaurus,#6e7f80
+avocado,Avocado,#568203
+azure,Azure,#007fff
+azure_mist_web,Azure Mist/Web,#f0ffff
+baby_blue,Baby Blue,#89cff0
+baby_blue_eyes,Baby Blue Eyes,#a1caf1
+baby_pink,Baby Pink,#f4c2c2
+ball_blue,Ball Blue,#21abcd
+banana_mania,Banana Mania,#fae7b5
+banana_yellow,Banana Yellow,#ffe135
+barn_red,Barn Red,#7c0a02
+battleship_grey,Battleship Grey,#848482
+bazaar,Bazaar,#98777b
+beau_blue,Beau Blue,#bcd4e6
+beaver,Beaver,#9f8170
+beige,Beige,#f5f5dc
+big_dip_o_ruby,Big Dip O’Ruby,#9c2542
+bisque,Bisque,#ffe4c4
+bistre,Bistre,#3d2b1f
+bittersweet,Bittersweet,#fe6f5e
+bittersweet_shimmer,Bittersweet Shimmer,#bf4f51
+black,Black,#000
+black_bean,Black Bean,#3d0c02
+black_leather_jacket,Black Leather Jacket,#253529
+black_olive,Black Olive,#3b3c36
+blanched_almond,Blanched Almond,#ffebcd
+blast_off_bronze,Blast-Off Bronze,#a57164
+bleu_de_france,Bleu De France,#318ce7
+blizzard_blue,Blizzard Blue,#ace5ee
+blond,Blond,#faf0be
+blue,Blue,#00f
+blue_bell,Blue Bell,#a2a2d0
+blue_crayola,Blue (Crayola),#1f75fe
+blue_gray,Blue Gray,#69c
+blue_green,Blue-Green,#0d98ba
+blue_munsell,Blue (Munsell),#0093af
+blue_ncs,Blue (Ncs),#0087bd
+blue_pigment,Blue (Pigment),#339
+blue_ryb,Blue (Ryb),#0247fe
+blue_sapphire,Blue Sapphire,#126180
+blue_violet,Blue-Violet,#8a2be2
+blush,Blush,#de5d83
+bole,Bole,#79443b
+bondi_blue,Bondi Blue,#0095b6
+bone,Bone,#e3dac9
+boston_university_red,Boston University Red,#c00
+bottle_green,Bottle Green,#006a4e
+boysenberry,Boysenberry,#873260
+brandeis_blue,Brandeis Blue,#0070ff
+brass,Brass,#b5a642
+brick_red,Brick Red,#cb4154
+bright_cerulean,Bright Cerulean,#1dacd6
+bright_green,Bright Green,#6f0
+bright_lavender,Bright Lavender,#bf94e4
+bright_maroon,Bright Maroon,#c32148
+bright_pink,Bright Pink,#ff007f
+bright_turquoise,Bright Turquoise,#08e8de
+bright_ube,Bright Ube,#d19fe8
+brilliant_lavender,Brilliant Lavender,#f4bbff
+brilliant_rose,Brilliant Rose,#ff55a3
+brink_pink,Brink Pink,#fb607f
+british_racing_green,British Racing Green,#004225
+bronze,Bronze,#cd7f32
+brown_traditional,Brown (Traditional),#964b00
+brown_web,Brown (Web),#a52a2a
+bubble_gum,Bubble Gum,#ffc1cc
+bubbles,Bubbles,#e7feff
+buff,Buff,#f0dc82
+bulgarian_rose,Bulgarian Rose,#480607
+burgundy,Burgundy,#800020
+burlywood,Burlywood,#deb887
+burnt_orange,Burnt Orange,#c50
+burnt_sienna,Burnt Sienna,#e97451
+burnt_umber,Burnt Umber,#8a3324
+byzantine,Byzantine,#bd33a4
+byzantium,Byzantium,#702963
+cadet,Cadet,#536872
+cadet_blue,Cadet Blue,#5f9ea0
+cadet_grey,Cadet Grey,#91a3b0
+cadmium_green,Cadmium Green,#006b3c
+cadmium_orange,Cadmium Orange,#ed872d
+cadmium_red,Cadmium Red,#e30022
+cadmium_yellow,Cadmium Yellow,#fff600
+caf_au_lait,Café Au Lait,#a67b5b
+caf_noir,Café Noir,#4b3621
+cal_poly_green,Cal Poly Green,#1e4d2b
+cambridge_blue,Cambridge Blue,#a3c1ad
+camel,Camel,#c19a6b
+cameo_pink,Cameo Pink,#efbbcc
+camouflage_green,Camouflage Green,#78866b
+canary_yellow,Canary Yellow,#ffef00
+candy_apple_red,Candy Apple Red,#ff0800
+candy_pink,Candy Pink,#e4717a
+capri,Capri,#00bfff
+caput_mortuum,Caput Mortuum,#592720
+cardinal,Cardinal,#c41e3a
+caribbean_green,Caribbean Green,#0c9
+carmine,Carmine,#960018
+carmine_m_p,Carmine (M&P),#d70040
+carmine_pink,Carmine Pink,#eb4c42
+carmine_red,Carmine Red,#ff0038
+carnation_pink,Carnation Pink,#ffa6c9
+carnelian,Carnelian,#b31b1b
+carolina_blue,Carolina Blue,#99badd
+carrot_orange,Carrot Orange,#ed9121
+catalina_blue,Catalina Blue,#062a78
+ceil,Ceil,#92a1cf
+celadon,Celadon,#ace1af
+celadon_blue,Celadon Blue,#007ba7
+celadon_green,Celadon Green,#2f847c
+celeste_colour,Celeste (Colour),#b2ffff
+celestial_blue,Celestial Blue,#4997d0
+cerise,Cerise,#de3163
+cerise_pink,Cerise Pink,#ec3b83
+cerulean,Cerulean,#007ba7
+cerulean_blue,Cerulean Blue,#2a52be
+cerulean_frost,Cerulean Frost,#6d9bc3
+cg_blue,Cg Blue,#007aa5
+cg_red,Cg Red,#e03c31
+chamoisee,Chamoisee,#a0785a
+champagne,Champagne,#fad6a5
+charcoal,Charcoal,#36454f
+charm_pink,Charm Pink,#e68fac
+chartreuse_traditional,Chartreuse (Traditional),#dfff00
+chartreuse_web,Chartreuse (Web),#7fff00
+cherry,Cherry,#de3163
+cherry_blossom_pink,Cherry Blossom Pink,#ffb7c5
+chestnut,Chestnut,#cd5c5c
+china_pink,China Pink,#de6fa1
+china_rose,China Rose,#a8516e
+chinese_red,Chinese Red,#aa381e
+chocolate_traditional,Chocolate (Traditional),#7b3f00
+chocolate_web,Chocolate (Web),#d2691e
+chrome_yellow,Chrome Yellow,#ffa700
+cinereous,Cinereous,#98817b
+cinnabar,Cinnabar,#e34234
+cinnamon,Cinnamon,#d2691e
+citrine,Citrine,#e4d00a
+classic_rose,Classic Rose,#fbcce7
+cobalt,Cobalt,#0047ab
+cocoa_brown,Cocoa Brown,#d2691e
+coffee,Coffee,#6f4e37
+columbia_blue,Columbia Blue,#9bddff
+congo_pink,Congo Pink,#f88379
+cool_black,Cool Black,#002e63
+cool_grey,Cool Grey,#8c92ac
+copper,Copper,#b87333
+copper_crayola,Copper (Crayola),#da8a67
+copper_penny,Copper Penny,#ad6f69
+copper_red,Copper Red,#cb6d51
+copper_rose,Copper Rose,#966
+coquelicot,Coquelicot,#ff3800
+coral,Coral,#ff7f50
+coral_pink,Coral Pink,#f88379
+coral_red,Coral Red,#ff4040
+cordovan,Cordovan,#893f45
+corn,Corn,#fbec5d
+cornell_red,Cornell Red,#b31b1b
+cornflower_blue,Cornflower Blue,#6495ed
+cornsilk,Cornsilk,#fff8dc
+cosmic_latte,Cosmic Latte,#fff8e7
+cotton_candy,Cotton Candy,#ffbcd9
+cream,Cream,#fffdd0
+crimson,Crimson,#dc143c
+crimson_glory,Crimson Glory,#be0032
+cyan,Cyan,#0ff
+cyan_process,Cyan (Process),#00b7eb
+daffodil,Daffodil,#ffff31
+dandelion,Dandelion,#f0e130
+dark_blue,Dark Blue,#00008b
+dark_brown,Dark Brown,#654321
+dark_byzantium,Dark Byzantium,#5d3954
+dark_candy_apple_red,Dark Candy Apple Red,#a40000
+dark_cerulean,Dark Cerulean,#08457e
+dark_chestnut,Dark Chestnut,#986960
+dark_coral,Dark Coral,#cd5b45
+dark_cyan,Dark Cyan,#008b8b
+dark_electric_blue,Dark Electric Blue,#536878
+dark_goldenrod,Dark Goldenrod,#b8860b
+dark_gray,Dark Gray,#a9a9a9
+dark_green,Dark Green,#013220
+dark_imperial_blue,Dark Imperial Blue,#00416a
+dark_jungle_green,Dark Jungle Green,#1a2421
+dark_khaki,Dark Khaki,#bdb76b
+dark_lava,Dark Lava,#483c32
+dark_lavender,Dark Lavender,#734f96
+dark_magenta,Dark Magenta,#8b008b
+dark_midnight_blue,Dark Midnight Blue,#036
+dark_olive_green,Dark Olive Green,#556b2f
+dark_orange,Dark Orange,#ff8c00
+dark_orchid,Dark Orchid,#9932cc
+dark_pastel_blue,Dark Pastel Blue,#779ecb
+dark_pastel_green,Dark Pastel Green,#03c03c
+dark_pastel_purple,Dark Pastel Purple,#966fd6
+dark_pastel_red,Dark Pastel Red,#c23b22
+dark_pink,Dark Pink,#e75480
+dark_powder_blue,Dark Powder Blue,#039
+dark_raspberry,Dark Raspberry,#872657
+dark_red,Dark Red,#8b0000
+dark_salmon,Dark Salmon,#e9967a
+dark_scarlet,Dark Scarlet,#560319
+dark_sea_green,Dark Sea Green,#8fbc8f
+dark_sienna,Dark Sienna,#3c1414
+dark_slate_blue,Dark Slate Blue,#483d8b
+dark_slate_gray,Dark Slate Gray,#2f4f4f
+dark_spring_green,Dark Spring Green,#177245
+dark_tan,Dark Tan,#918151
+dark_tangerine,Dark Tangerine,#ffa812
+dark_taupe,Dark Taupe,#483c32
+dark_terra_cotta,Dark Terra Cotta,#cc4e5c
+dark_turquoise,Dark Turquoise,#00ced1
+dark_violet,Dark Violet,#9400d3
+dark_yellow,Dark Yellow,#9b870c
+dartmouth_green,Dartmouth Green,#00703c
+davy_s_grey,Davy'S Grey,#555
+debian_red,Debian Red,#d70a53
+deep_carmine,Deep Carmine,#a9203e
+deep_carmine_pink,Deep Carmine Pink,#ef3038
+deep_carrot_orange,Deep Carrot Orange,#e9692c
+deep_cerise,Deep Cerise,#da3287
+deep_champagne,Deep Champagne,#fad6a5
+deep_chestnut,Deep Chestnut,#b94e48
+deep_coffee,Deep Coffee,#704241
+deep_fuchsia,Deep Fuchsia,#c154c1
+deep_jungle_green,Deep Jungle Green,#004b49
+deep_lilac,Deep Lilac,#95b
+deep_magenta,Deep Magenta,#c0c
+deep_peach,Deep Peach,#ffcba4
+deep_pink,Deep Pink,#ff1493
+deep_ruby,Deep Ruby,#843f5b
+deep_saffron,Deep Saffron,#f93
+deep_sky_blue,Deep Sky Blue,#00bfff
+deep_tuscan_red,Deep Tuscan Red,#66424d
+denim,Denim,#1560bd
+desert,Desert,#c19a6b
+desert_sand,Desert Sand,#edc9af
+dim_gray,Dim Gray,#696969
+dodger_blue,Dodger Blue,#1e90ff
+dogwood_rose,Dogwood Rose,#d71868
+dollar_bill,Dollar Bill,#85bb65
+drab,Drab,#967117
+duke_blue,Duke Blue,#00009c
+earth_yellow,Earth Yellow,#e1a95f
+ebony,Ebony,#555d50
+ecru,Ecru,#c2b280
+eggplant,Eggplant,#614051
+eggshell,Eggshell,#f0ead6
+egyptian_blue,Egyptian Blue,#1034a6
+electric_blue,Electric Blue,#7df9ff
+electric_crimson,Electric Crimson,#ff003f
+electric_cyan,Electric Cyan,#0ff
+electric_green,Electric Green,#0f0
+electric_indigo,Electric Indigo,#6f00ff
+electric_lavender,Electric Lavender,#f4bbff
+electric_lime,Electric Lime,#cf0
+electric_purple,Electric Purple,#bf00ff
+electric_ultramarine,Electric Ultramarine,#3f00ff
+electric_violet,Electric Violet,#8f00ff
+electric_yellow,Electric Yellow,#ff0
+emerald,Emerald,#50c878
+english_lavender,English Lavender,#b48395
+eton_blue,Eton Blue,#96c8a2
+fallow,Fallow,#c19a6b
+falu_red,Falu Red,#801818
+fandango,Fandango,#b53389
+fashion_fuchsia,Fashion Fuchsia,#f400a1
+fawn,Fawn,#e5aa70
+feldgrau,Feldgrau,#4d5d53
+fern_green,Fern Green,#4f7942
+ferrari_red,Ferrari Red,#ff2800
+field_drab,Field Drab,#6c541e
+fire_engine_red,Fire Engine Red,#ce2029
+firebrick,Firebrick,#b22222
+flame,Flame,#e25822
+flamingo_pink,Flamingo Pink,#fc8eac
+flavescent,Flavescent,#f7e98e
+flax,Flax,#eedc82
+floral_white,Floral White,#fffaf0
+fluorescent_orange,Fluorescent Orange,#ffbf00
+fluorescent_pink,Fluorescent Pink,#ff1493
+fluorescent_yellow,Fluorescent Yellow,#cf0
+folly,Folly,#ff004f
+forest_green_traditional,Forest Green (Traditional),#014421
+forest_green_web,Forest Green (Web),#228b22
+french_beige,French Beige,#a67b5b
+french_blue,French Blue,#0072bb
+french_lilac,French Lilac,#86608e
+french_lime,French Lime,#cf0
+french_raspberry,French Raspberry,#c72c48
+french_rose,French Rose,#f64a8a
+fuchsia,Fuchsia,#f0f
+fuchsia_crayola,Fuchsia (Crayola),#c154c1
+fuchsia_pink,Fuchsia Pink,#f7f
+fuchsia_rose,Fuchsia Rose,#c74375
+fulvous,Fulvous,#e48400
+fuzzy_wuzzy,Fuzzy Wuzzy,#c66
+gainsboro,Gainsboro,#dcdcdc
+gamboge,Gamboge,#e49b0f
+ghost_white,Ghost White,#f8f8ff
+ginger,Ginger,#b06500
+glaucous,Glaucous,#6082b6
+glitter,Glitter,#e6e8fa
+gold_metallic,Gold (Metallic),#d4af37
+gold_web_golden,Gold (Web) (Golden),#ffd700
+golden_brown,Golden Brown,#996515
+golden_poppy,Golden Poppy,#fcc200
+golden_yellow,Golden Yellow,#ffdf00
+goldenrod,Goldenrod,#daa520
+granny_smith_apple,Granny Smith Apple,#a8e4a0
+gray,Gray,#808080
+gray_asparagus,Gray-Asparagus,#465945
+gray_html_css_gray,Gray (Html/Css Gray),#808080
+gray_x11_gray,Gray (X11 Gray),#bebebe
+green_color_wheel_x11_green,Green (Color Wheel) (X11 Green),#0f0
+green_crayola,Green (Crayola),#1cac78
+green_html_css_green,Green (Html/Css Green),#008000
+green_munsell,Green (Munsell),#00a877
+green_ncs,Green (Ncs),#009f6b
+green_pigment,Green (Pigment),#00a550
+green_ryb,Green (Ryb),#66b032
+green_yellow,Green-Yellow,#adff2f
+grullo,Grullo,#a99a86
+guppie_green,Guppie Green,#00ff7f
+halay_be,Halayà úBe,#663854
+han_blue,Han Blue,#446ccf
+han_purple,Han Purple,#5218fa
+hansa_yellow,Hansa Yellow,#e9d66b
+harlequin,Harlequin,#3fff00
+harvard_crimson,Harvard Crimson,#c90016
+harvest_gold,Harvest Gold,#da9100
+heart_gold,Heart Gold,#808000
+heliotrope,Heliotrope,#df73ff
+hollywood_cerise,Hollywood Cerise,#f400a1
+honeydew,Honeydew,#f0fff0
+honolulu_blue,Honolulu Blue,#007fbf
+hooker_s_green,Hooker'S Green,#49796b
+hot_magenta,Hot Magenta,#ff1dce
+hot_pink,Hot Pink,#ff69b4
+hunter_green,Hunter Green,#355e3b
+iceberg,Iceberg,#71a6d2
+icterine,Icterine,#fcf75e
+imperial_blue,Imperial Blue,#002395
+inchworm,Inchworm,#b2ec5d
+india_green,India Green,#138808
+indian_red,Indian Red,#cd5c5c
+indian_yellow,Indian Yellow,#e3a857
+indigo,Indigo,#6f00ff
+indigo_dye,Indigo (Dye),#00416a
+indigo_web,Indigo (Web),#4b0082
+international_klein_blue,International Klein Blue,#002fa7
+international_orange_aerospace,International Orange (Aerospace),#ff4f00
+international_orange_engineering,International Orange (Engineering),#ba160c
+international_orange_golden_gate_bridge,International Orange (Golden Gate Bridge),#c0362c
+iris,Iris,#5a4fcf
+isabelline,Isabelline,#f4f0ec
+islamic_green,Islamic Green,#009000
+ivory,Ivory,#fffff0
+jade,Jade,#00a86b
+jasmine,Jasmine,#f8de7e
+jasper,Jasper,#d73b3e
+jazzberry_jam,Jazzberry Jam,#a50b5e
+jet,Jet,#343434
+jonquil,Jonquil,#fada5e
+june_bud,June Bud,#bdda57
+jungle_green,Jungle Green,#29ab87
+kelly_green,Kelly Green,#4cbb17
+kenyan_copper,Kenyan Copper,#7c1c05
+khaki_html_css_khaki,Khaki (Html/Css) (Khaki),#c3b091
+khaki_x11_light_khaki,Khaki (X11) (Light Khaki),#f0e68c
+ku_crimson,Ku Crimson,#e8000d
+la_salle_green,La Salle Green,#087830
+languid_lavender,Languid Lavender,#d6cadd
+lapis_lazuli,Lapis Lazuli,#26619c
+laser_lemon,Laser Lemon,#fefe22
+laurel_green,Laurel Green,#a9ba9d
+lava,Lava,#cf1020
+lavender_blue,Lavender Blue,#ccf
+lavender_blush,Lavender Blush,#fff0f5
+lavender_floral,Lavender (Floral),#b57edc
+lavender_gray,Lavender Gray,#c4c3d0
+lavender_indigo,Lavender Indigo,#9457eb
+lavender_magenta,Lavender Magenta,#ee82ee
+lavender_mist,Lavender Mist,#e6e6fa
+lavender_pink,Lavender Pink,#fbaed2
+lavender_purple,Lavender Purple,#967bb6
+lavender_rose,Lavender Rose,#fba0e3
+lavender_web,Lavender (Web),#e6e6fa
+lawn_green,Lawn Green,#7cfc00
+lemon,Lemon,#fff700
+lemon_chiffon,Lemon Chiffon,#fffacd
+lemon_lime,Lemon Lime,#e3ff00
+licorice,Licorice,#1a1110
+light_apricot,Light Apricot,#fdd5b1
+light_blue,Light Blue,#add8e6
+light_brown,Light Brown,#b5651d
+light_carmine_pink,Light Carmine Pink,#e66771
+light_coral,Light Coral,#f08080
+light_cornflower_blue,Light Cornflower Blue,#93ccea
+light_crimson,Light Crimson,#f56991
+light_cyan,Light Cyan,#e0ffff
+light_fuchsia_pink,Light Fuchsia Pink,#f984ef
+light_goldenrod_yellow,Light Goldenrod Yellow,#fafad2
+light_gray,Light Gray,#d3d3d3
+light_green,Light Green,#90ee90
+light_khaki,Light Khaki,#f0e68c
+light_pastel_purple,Light Pastel Purple,#b19cd9
+light_pink,Light Pink,#ffb6c1
+light_red_ochre,Light Red Ochre,#e97451
+light_salmon,Light Salmon,#ffa07a
+light_salmon_pink,Light Salmon Pink,#f99
+light_sea_green,Light Sea Green,#20b2aa
+light_sky_blue,Light Sky Blue,#87cefa
+light_slate_gray,Light Slate Gray,#789
+light_taupe,Light Taupe,#b38b6d
+light_thulian_pink,Light Thulian Pink,#e68fac
+light_yellow,Light Yellow,#ffffe0
+lilac,Lilac,#c8a2c8
+lime_color_wheel,Lime (Color Wheel),#bfff00
+lime_green,Lime Green,#32cd32
+lime_web_x11_green,Lime (Web) (X11 Green),#0f0
+limerick,Limerick,#9dc209
+lincoln_green,Lincoln Green,#195905
+linen,Linen,#faf0e6
+lion,Lion,#c19a6b
+little_boy_blue,Little Boy Blue,#6ca0dc
+liver,Liver,#534b4f
+lust,Lust,#e62020
+magenta,Magenta,#f0f
+magenta_dye,Magenta (Dye),#ca1f7b
+magenta_process,Magenta (Process),#ff0090
+magic_mint,Magic Mint,#aaf0d1
+magnolia,Magnolia,#f8f4ff
+mahogany,Mahogany,#c04000
+maize,Maize,#fbec5d
+majorelle_blue,Majorelle Blue,#6050dc
+malachite,Malachite,#0bda51
+manatee,Manatee,#979aaa
+mango_tango,Mango Tango,#ff8243
+mantis,Mantis,#74c365
+mardi_gras,Mardi Gras,#880085
+maroon_crayola,Maroon (Crayola),#c32148
+maroon_html_css,Maroon (Html/Css),#800000
+maroon_x11,Maroon (X11),#b03060
+mauve,Mauve,#e0b0ff
+mauve_taupe,Mauve Taupe,#915f6d
+mauvelous,Mauvelous,#ef98aa
+maya_blue,Maya Blue,#73c2fb
+meat_brown,Meat Brown,#e5b73b
+medium_aquamarine,Medium Aquamarine,#6da
+medium_blue,Medium Blue,#0000cd
+medium_candy_apple_red,Medium Candy Apple Red,#e2062c
+medium_carmine,Medium Carmine,#af4035
+medium_champagne,Medium Champagne,#f3e5ab
+medium_electric_blue,Medium Electric Blue,#035096
+medium_jungle_green,Medium Jungle Green,#1c352d
+medium_lavender_magenta,Medium Lavender Magenta,#dda0dd
+medium_orchid,Medium Orchid,#ba55d3
+medium_persian_blue,Medium Persian Blue,#0067a5
+medium_purple,Medium Purple,#9370db
+medium_red_violet,Medium Red-Violet,#bb3385
+medium_ruby,Medium Ruby,#aa4069
+medium_sea_green,Medium Sea Green,#3cb371
+medium_slate_blue,Medium Slate Blue,#7b68ee
+medium_spring_bud,Medium Spring Bud,#c9dc87
+medium_spring_green,Medium Spring Green,#00fa9a
+medium_taupe,Medium Taupe,#674c47
+medium_turquoise,Medium Turquoise,#48d1cc
+medium_tuscan_red,Medium Tuscan Red,#79443b
+medium_vermilion,Medium Vermilion,#d9603b
+medium_violet_red,Medium Violet-Red,#c71585
+mellow_apricot,Mellow Apricot,#f8b878
+mellow_yellow,Mellow Yellow,#f8de7e
+melon,Melon,#fdbcb4
+midnight_blue,Midnight Blue,#191970
+midnight_green_eagle_green,Midnight Green (Eagle Green),#004953
+mikado_yellow,Mikado Yellow,#ffc40c
+mint,Mint,#3eb489
+mint_cream,Mint Cream,#f5fffa
+mint_green,Mint Green,#98ff98
+misty_rose,Misty Rose,#ffe4e1
+moccasin,Moccasin,#faebd7
+mode_beige,Mode Beige,#967117
+moonstone_blue,Moonstone Blue,#73a9c2
+mordant_red_19,Mordant Red 19,#ae0c00
+moss_green,Moss Green,#addfad
+mountain_meadow,Mountain Meadow,#30ba8f
+mountbatten_pink,Mountbatten Pink,#997a8d
+msu_green,Msu Green,#18453b
+mulberry,Mulberry,#c54b8c
+mustard,Mustard,#ffdb58
+myrtle,Myrtle,#21421e
+nadeshiko_pink,Nadeshiko Pink,#f6adc6
+napier_green,Napier Green,#2a8000
+naples_yellow,Naples Yellow,#fada5e
+navajo_white,Navajo White,#ffdead
+navy_blue,Navy Blue,#000080
+neon_carrot,Neon Carrot,#ffa343
+neon_fuchsia,Neon Fuchsia,#fe4164
+neon_green,Neon Green,#39ff14
+new_york_pink,New York Pink,#d7837f
+non_photo_blue,Non-Photo Blue,#a4dded
+north_texas_green,North Texas Green,#059033
+ocean_boat_blue,Ocean Boat Blue,#0077be
+ochre,Ochre,#c72
+office_green,Office Green,#008000
+old_gold,Old Gold,#cfb53b
+old_lace,Old Lace,#fdf5e6
+old_lavender,Old Lavender,#796878
+old_mauve,Old Mauve,#673147
+old_rose,Old Rose,#c08081
+olive,Olive,#808000
+olive_drab_7,Olive Drab #7,#3c341f
+olive_drab_web_olive_drab_3,Olive Drab (Web) (Olive Drab #3),#6b8e23
+olivine,Olivine,#9ab973
+onyx,Onyx,#353839
+opera_mauve,Opera Mauve,#b784a7
+orange_color_wheel,Orange (Color Wheel),#ff7f00
+orange_peel,Orange Peel,#ff9f00
+orange_red,Orange-Red,#ff4500
+orange_ryb,Orange (Ryb),#fb9902
+orange_web_color,Orange (Web Color),#ffa500
+orchid,Orchid,#da70d6
+otter_brown,Otter Brown,#654321
+ou_crimson_red,Ou Crimson Red,#900
+outer_space,Outer Space,#414a4c
+outrageous_orange,Outrageous Orange,#ff6e4a
+oxford_blue,Oxford Blue,#002147
+pakistan_green,Pakistan Green,#060
+palatinate_blue,Palatinate Blue,#273be2
+palatinate_purple,Palatinate Purple,#682860
+pale_aqua,Pale Aqua,#bcd4e6
+pale_blue,Pale Blue,#afeeee
+pale_brown,Pale Brown,#987654
+pale_carmine,Pale Carmine,#af4035
+pale_cerulean,Pale Cerulean,#9bc4e2
+pale_chestnut,Pale Chestnut,#ddadaf
+pale_copper,Pale Copper,#da8a67
+pale_cornflower_blue,Pale Cornflower Blue,#abcdef
+pale_gold,Pale Gold,#e6be8a
+pale_goldenrod,Pale Goldenrod,#eee8aa
+pale_green,Pale Green,#98fb98
+pale_lavender,Pale Lavender,#dcd0ff
+pale_magenta,Pale Magenta,#f984e5
+pale_pink,Pale Pink,#fadadd
+pale_plum,Pale Plum,#dda0dd
+pale_red_violet,Pale Red-Violet,#db7093
+pale_robin_egg_blue,Pale Robin Egg Blue,#96ded1
+pale_silver,Pale Silver,#c9c0bb
+pale_spring_bud,Pale Spring Bud,#ecebbd
+pale_taupe,Pale Taupe,#bc987e
+pale_violet_red,Pale Violet-Red,#db7093
+pansy_purple,Pansy Purple,#78184a
+papaya_whip,Papaya Whip,#ffefd5
+paris_green,Paris Green,#50c878
+pastel_blue,Pastel Blue,#aec6cf
+pastel_brown,Pastel Brown,#836953
+pastel_gray,Pastel Gray,#cfcfc4
+pastel_green,Pastel Green,#7d7
+pastel_magenta,Pastel Magenta,#f49ac2
+pastel_orange,Pastel Orange,#ffb347
+pastel_pink,Pastel Pink,#dea5a4
+pastel_purple,Pastel Purple,#b39eb5
+pastel_red,Pastel Red,#ff6961
+pastel_violet,Pastel Violet,#cb99c9
+pastel_yellow,Pastel Yellow,#fdfd96
+patriarch,Patriarch,#800080
+payne_s_grey,Payne'S Grey,#536878
+peach,Peach,#ffe5b4
+peach_crayola,Peach (Crayola),#ffcba4
+peach_orange,Peach-Orange,#fc9
+peach_puff,Peach Puff,#ffdab9
+peach_yellow,Peach-Yellow,#fadfad
+pear,Pear,#d1e231
+pearl,Pearl,#eae0c8
+pearl_aqua,Pearl Aqua,#88d8c0
+pearly_purple,Pearly Purple,#b768a2
+peridot,Peridot,#e6e200
+periwinkle,Periwinkle,#ccf
+persian_blue,Persian Blue,#1c39bb
+persian_green,Persian Green,#00a693
+persian_indigo,Persian Indigo,#32127a
+persian_orange,Persian Orange,#d99058
+persian_pink,Persian Pink,#f77fbe
+persian_plum,Persian Plum,#701c1c
+persian_red,Persian Red,#c33
+persian_rose,Persian Rose,#fe28a2
+persimmon,Persimmon,#ec5800
+peru,Peru,#cd853f
+phlox,Phlox,#df00ff
+phthalo_blue,Phthalo Blue,#000f89
+phthalo_green,Phthalo Green,#123524
+piggy_pink,Piggy Pink,#fddde6
+pine_green,Pine Green,#01796f
+pink,Pink,#ffc0cb
+pink_lace,Pink Lace,#ffddf4
+pink_orange,Pink-Orange,#f96
+pink_pearl,Pink Pearl,#e7accf
+pink_sherbet,Pink Sherbet,#f78fa7
+pistachio,Pistachio,#93c572
+platinum,Platinum,#e5e4e2
+plum_traditional,Plum (Traditional),#8e4585
+plum_web,Plum (Web),#dda0dd
+portland_orange,Portland Orange,#ff5a36
+powder_blue_web,Powder Blue (Web),#b0e0e6
+princeton_orange,Princeton Orange,#ff8f00
+prune,Prune,#701c1c
+prussian_blue,Prussian Blue,#003153
+psychedelic_purple,Psychedelic Purple,#df00ff
+puce,Puce,#c89
+pumpkin,Pumpkin,#ff7518
+purple_heart,Purple Heart,#69359c
+purple_html_css,Purple (Html/Css),#800080
+purple_mountain_majesty,Purple Mountain Majesty,#9678b6
+purple_munsell,Purple (Munsell),#9f00c5
+purple_pizzazz,Purple Pizzazz,#fe4eda
+purple_taupe,Purple Taupe,#50404d
+purple_x11,Purple (X11),#a020f0
+quartz,Quartz,#51484f
+rackley,Rackley,#5d8aa8
+radical_red,Radical Red,#ff355e
+rajah,Rajah,#fbab60
+raspberry,Raspberry,#e30b5d
+raspberry_glace,Raspberry Glace,#915f6d
+raspberry_pink,Raspberry Pink,#e25098
+raspberry_rose,Raspberry Rose,#b3446c
+raw_umber,Raw Umber,#826644
+razzle_dazzle_rose,Razzle Dazzle Rose,#f3c
+razzmatazz,Razzmatazz,#e3256b
+red,Red,#f00
+red_brown,Red-Brown,#a52a2a
+red_devil,Red Devil,#860111
+red_munsell,Red (Munsell),#f2003c
+red_ncs,Red (Ncs),#c40233
+red_orange,Red-Orange,#ff5349
+red_pigment,Red (Pigment),#ed1c24
+red_ryb,Red (Ryb),#fe2712
+red_violet,Red-Violet,#c71585
+redwood,Redwood,#ab4e52
+regalia,Regalia,#522d80
+resolution_blue,Resolution Blue,#002387
+rich_black,Rich Black,#004040
+rich_brilliant_lavender,Rich Brilliant Lavender,#f1a7fe
+rich_carmine,Rich Carmine,#d70040
+rich_electric_blue,Rich Electric Blue,#0892d0
+rich_lavender,Rich Lavender,#a76bcf
+rich_lilac,Rich Lilac,#b666d2
+rich_maroon,Rich Maroon,#b03060
+rifle_green,Rifle Green,#414833
+robin_egg_blue,Robin Egg Blue,#0cc
+rose,Rose,#ff007f
+rose_bonbon,Rose Bonbon,#f9429e
+rose_ebony,Rose Ebony,#674846
+rose_gold,Rose Gold,#b76e79
+rose_madder,Rose Madder,#e32636
+rose_pink,Rose Pink,#f6c
+rose_quartz,Rose Quartz,#aa98a9
+rose_taupe,Rose Taupe,#905d5d
+rose_vale,Rose Vale,#ab4e52
+rosewood,Rosewood,#65000b
+rosso_corsa,Rosso Corsa,#d40000
+rosy_brown,Rosy Brown,#bc8f8f
+royal_azure,Royal Azure,#0038a8
+royal_blue_traditional,Royal Blue (Traditional),#002366
+royal_blue_web,Royal Blue (Web),#4169e1
+royal_fuchsia,Royal Fuchsia,#ca2c92
+royal_purple,Royal Purple,#7851a9
+royal_yellow,Royal Yellow,#fada5e
+rubine_red,Rubine Red,#d10056
+ruby,Ruby,#e0115f
+ruby_red,Ruby Red,#9b111e
+ruddy,Ruddy,#ff0028
+ruddy_brown,Ruddy Brown,#bb6528
+ruddy_pink,Ruddy Pink,#e18e96
+rufous,Rufous,#a81c07
+russet,Russet,#80461b
+rust,Rust,#b7410e
+rusty_red,Rusty Red,#da2c43
+sacramento_state_green,Sacramento State Green,#00563f
+saddle_brown,Saddle Brown,#8b4513
+safety_orange_blaze_orange,Safety Orange (Blaze Orange),#ff6700
+saffron,Saffron,#f4c430
+salmon,Salmon,#ff8c69
+salmon_pink,Salmon Pink,#ff91a4
+sand,Sand,#c2b280
+sand_dune,Sand Dune,#967117
+sandstorm,Sandstorm,#ecd540
+sandy_brown,Sandy Brown,#f4a460
+sandy_taupe,Sandy Taupe,#967117
+sangria,Sangria,#92000a
+sap_green,Sap Green,#507d2a
+sapphire,Sapphire,#0f52ba
+sapphire_blue,Sapphire Blue,#0067a5
+satin_sheen_gold,Satin Sheen Gold,#cba135
+scarlet,Scarlet,#ff2400
+scarlet_crayola,Scarlet (Crayola),#fd0e35
+school_bus_yellow,School Bus Yellow,#ffd800
+screamin_green,Screamin' Green,#76ff7a
+sea_blue,Sea Blue,#006994
+sea_green,Sea Green,#2e8b57
+seal_brown,Seal Brown,#321414
+seashell,Seashell,#fff5ee
+selective_yellow,Selective Yellow,#ffba00
+sepia,Sepia,#704214
+shadow,Shadow,#8a795d
+shamrock_green,Shamrock Green,#009e60
+shocking_pink,Shocking Pink,#fc0fc0
+shocking_pink_crayola,Shocking Pink (Crayola),#ff6fff
+sienna,Sienna,#882d17
+silver,Silver,#c0c0c0
+sinopia,Sinopia,#cb410b
+skobeloff,Skobeloff,#007474
+sky_blue,Sky Blue,#87ceeb
+sky_magenta,Sky Magenta,#cf71af
+slate_blue,Slate Blue,#6a5acd
+slate_gray,Slate Gray,#708090
+smalt_dark_powder_blue,Smalt (Dark Powder Blue),#039
+smokey_topaz,Smokey Topaz,#933d41
+smoky_black,Smoky Black,#100c08
+snow,Snow,#fffafa
+spiro_disco_ball,Spiro Disco Ball,#0fc0fc
+spring_bud,Spring Bud,#a7fc00
+spring_green,Spring Green,#00ff7f
+st_patrick_s_blue,St. Patrick'S Blue,#23297a
+steel_blue,Steel Blue,#4682b4
+stil_de_grain_yellow,Stil De Grain Yellow,#fada5e
+stizza,Stizza,#900
+stormcloud,Stormcloud,#4f666a
+straw,Straw,#e4d96f
+sunglow,Sunglow,#fc3
+sunset,Sunset,#fad6a5
+tan,Tan,#d2b48c
+tangelo,Tangelo,#f94d00
+tangerine,Tangerine,#f28500
+tangerine_yellow,Tangerine Yellow,#fc0
+tango_pink,Tango Pink,#e4717a
+taupe,Taupe,#483c32
+taupe_gray,Taupe Gray,#8b8589
+tea_green,Tea Green,#d0f0c0
+tea_rose_orange,Tea Rose (Orange),#f88379
+tea_rose_rose,Tea Rose (Rose),#f4c2c2
+teal,Teal,#008080
+teal_blue,Teal Blue,#367588
+teal_green,Teal Green,#00827f
+telemagenta,Telemagenta,#cf3476
+tenn_tawny,Tenné (Tawny),#cd5700
+terra_cotta,Terra Cotta,#e2725b
+thistle,Thistle,#d8bfd8
+thulian_pink,Thulian Pink,#de6fa1
+tickle_me_pink,Tickle Me Pink,#fc89ac
+tiffany_blue,Tiffany Blue,#0abab5
+tiger_s_eye,Tiger'S Eye,#e08d3c
+timberwolf,Timberwolf,#dbd7d2
+titanium_yellow,Titanium Yellow,#eee600
+tomato,Tomato,#ff6347
+toolbox,Toolbox,#746cc0
+topaz,Topaz,#ffc87c
+tractor_red,Tractor Red,#fd0e35
+trolley_grey,Trolley Grey,#808080
+tropical_rain_forest,Tropical Rain Forest,#00755e
+true_blue,True Blue,#0073cf
+tufts_blue,Tufts Blue,#417dc1
+tumbleweed,Tumbleweed,#deaa88
+turkish_rose,Turkish Rose,#b57281
+turquoise,Turquoise,#30d5c8
+turquoise_blue,Turquoise Blue,#00ffef
+turquoise_green,Turquoise Green,#a0d6b4
+tuscan_red,Tuscan Red,#7c4848
+twilight_lavender,Twilight Lavender,#8a496b
+tyrian_purple,Tyrian Purple,#66023c
+ua_blue,Ua Blue,#03a
+ua_red,Ua Red,#d9004c
+ube,Ube,#8878c3
+ucla_blue,Ucla Blue,#536895
+ucla_gold,Ucla Gold,#ffb300
+ufo_green,Ufo Green,#3cd070
+ultra_pink,Ultra Pink,#ff6fff
+ultramarine,Ultramarine,#120a8f
+ultramarine_blue,Ultramarine Blue,#4166f5
+umber,Umber,#635147
+unbleached_silk,Unbleached Silk,#ffddca
+united_nations_blue,United Nations Blue,#5b92e5
+university_of_california_gold,University Of California Gold,#b78727
+unmellow_yellow,Unmellow Yellow,#ff6
+up_forest_green,Up Forest Green,#014421
+up_maroon,Up Maroon,#7b1113
+upsdell_red,Upsdell Red,#ae2029
+urobilin,Urobilin,#e1ad21
+usafa_blue,Usafa Blue,#004f98
+usc_cardinal,Usc Cardinal,#900
+usc_gold,Usc Gold,#fc0
+utah_crimson,Utah Crimson,#d3003f
+vanilla,Vanilla,#f3e5ab
+vegas_gold,Vegas Gold,#c5b358
+venetian_red,Venetian Red,#c80815
+verdigris,Verdigris,#43b3ae
+vermilion_cinnabar,Vermilion (Cinnabar),#e34234
+vermilion_plochere,Vermilion (Plochere),#d9603b
+veronica,Veronica,#a020f0
+violet,Violet,#8f00ff
+violet_blue,Violet-Blue,#324ab2
+violet_color_wheel,Violet (Color Wheel),#7f00ff
+violet_ryb,Violet (Ryb),#8601af
+violet_web,Violet (Web),#ee82ee
+viridian,Viridian,#40826d
+vivid_auburn,Vivid Auburn,#922724
+vivid_burgundy,Vivid Burgundy,#9f1d35
+vivid_cerise,Vivid Cerise,#da1d81
+vivid_tangerine,Vivid Tangerine,#ffa089
+vivid_violet,Vivid Violet,#9f00ff
+warm_black,Warm Black,#004242
+waterspout,Waterspout,#a4f4f9
+wenge,Wenge,#645452
+wheat,Wheat,#f5deb3
+white,White,#fff
+white_smoke,White Smoke,#f5f5f5
+wild_blue_yonder,Wild Blue Yonder,#a2add0
+wild_strawberry,Wild Strawberry,#ff43a4
+wild_watermelon,Wild Watermelon,#fc6c85
+wine,Wine,#722f37
+wine_dregs,Wine Dregs,#673147
+wisteria,Wisteria,#c9a0dc
+wood_brown,Wood Brown,#c19a6b
+xanadu,Xanadu,#738678
+yale_blue,Yale Blue,#0f4d92
+yellow,Yellow,#ff0
+yellow_green,Yellow-Green,#9acd32
+yellow_munsell,Yellow (Munsell),#efcc00
+yellow_ncs,Yellow (Ncs),#ffd300
+yellow_orange,Yellow Orange,#ffae42
+yellow_process,Yellow (Process),#ffef00
+yellow_ryb,Yellow (Ryb),#fefe33
+zaffre,Zaffre,#0014a8
+zinnwaldite_brown,Zinnwaldite Brown,#2c1608
